@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     background-color: beige;
 }
@@ -12,4 +17,14 @@ body{
     font-size: 1.4rem;
     font-weight: 700;
 }
-
+.contenido{
+background-color: pink;
+width: 50%;
+}
+.contenido__imagen{
+    background-color: rgb(223, 150, 223);
+    width: 100%;
+}
+.contenido__imagen img{
+    width: 100%;
+}

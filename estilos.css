@@ -19,12 +19,16 @@ body{
 }
 .contenido{
 background-color: pink;
-width: 50%;
+width: 70%;
+padding: 2rem;
 }
 .contenido__imagen{
     background-color: rgb(223, 150, 223);
-    width: 100%;
+    width: 50%;
+    border-radius: 10px;
 }
 .contenido__imagen img{
     width: 100%;
+    box-shadow: 5px 5px rgba(209, 187, 187, 0.836);
+    border-radius: 10px;
 }

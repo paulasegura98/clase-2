@@ -35,8 +35,12 @@ float: left;
 }
 .lista__alfabetica{
 background-color: bisque;
-padding: 1rem;
+padding: 2rem;
 width: 30%;
 height: 1000px;
 float: right;
+}
+.footer{
+    background-color: rgb(147, 147, 247);
+    clear: both;
 }

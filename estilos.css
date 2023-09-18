@@ -21,6 +21,7 @@ body{
 background-color: pink;
 width: 70%;
 padding: 2rem;
+float: left;
 }
 .contenido__imagen{
     background-color: rgb(223, 150, 223);
@@ -31,4 +32,11 @@ padding: 2rem;
     width: 100%;
     box-shadow: 5px 5px rgba(209, 187, 187, 0.836);
     border-radius: 10px;
+}
+.lista__alfabetica{
+background-color: bisque;
+padding: 1rem;
+width: 30%;
+height: 1000px;
+float: right;
 }
